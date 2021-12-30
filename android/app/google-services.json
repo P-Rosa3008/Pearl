@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768788508660",
+    "project_id": "pearl-f19e8",
+    "storage_bucket": "pearl-f19e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768788508660:android:edcc9063015b7f85fd13a1",
+        "android_client_info": {
+          "package_name": "com.gazinn.pearl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768788508660-j7m5q61bddifou6nh6tbhm4st58p8crk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRgQerDozDgJ7ULA8HgdMAFO09f2B_cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768788508660-j7m5q61bddifou6nh6tbhm4st58p8crk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
